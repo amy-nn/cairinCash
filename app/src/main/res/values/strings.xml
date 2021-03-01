@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Cairin Cash</string>
+
+    <string name="facebook_app_id" translatable="false">[153392203261351]</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb[153392203261351]</string>
+
+</resources>

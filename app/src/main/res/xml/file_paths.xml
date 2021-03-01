@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--/storage/emulated/0/Pictures/cairinCash-->
+    <external-path name="hm_Pictures" path="Pictures" />
+    <!--/storage/emulated/0/Android/data/com.hm.camerademo/files/Pictures-->
+    <!--<external-files-path name="hm_external_files" path="Pictures" />-->
+</paths>
